@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Close X</title>
+    <defs>
+        <filter x="-40.6%" y="-40.6%" width="181.3%" height="181.3%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.247519326 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Desktop---1440px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="HOME---Order-Online-BTN" transform="translate(-1395.000000, -821.000000)" fill="#F04DA3">
+            <g id="Group" transform="translate(1266.000000, 826.000000)">
+                <g id="Close-X" filter="url(#filter-1)" transform="translate(134.000000, 0.000000)">
+                    <path d="M-1.18233765,6.86862915 L17.1823376,6.86862915 C17.7346224,6.86862915 18.1823376,7.3163444 18.1823376,7.86862915 L18.1823376,8.13137085 C18.1823376,8.6836556 17.7346224,9.13137085 17.1823376,9.13137085 L-1.18233765,9.13137085 C-1.7346224,9.13137085 -2.18233765,8.6836556 -2.18233765,8.13137085 L-2.18233765,7.86862915 C-2.18233765,7.3163444 -1.7346224,6.86862915 -1.18233765,6.86862915 Z" id="Rectangle" transform="translate(8.000000, 8.000000) rotate(-45.000000) translate(-8.000000, -8.000000) "></path>
+                    <path d="M-1.18233765,6.86862915 L17.1823376,6.86862915 C17.7346224,6.86862915 18.1823376,7.3163444 18.1823376,7.86862915 L18.1823376,8.13137085 C18.1823376,8.6836556 17.7346224,9.13137085 17.1823376,9.13137085 L-1.18233765,9.13137085 C-1.7346224,9.13137085 -2.18233765,8.6836556 -2.18233765,8.13137085 L-2.18233765,7.86862915 C-2.18233765,7.3163444 -1.7346224,6.86862915 -1.18233765,6.86862915 Z" id="Rectangle-Copy" transform="translate(8.000000, 8.000000) rotate(45.000000) translate(-8.000000, -8.000000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

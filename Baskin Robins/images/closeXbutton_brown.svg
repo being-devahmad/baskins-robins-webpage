@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.17 15.17">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3b0006;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <g id="Desktop---1440px">
+    <g id="HOME---Order-Online-BTN">
+      <g id="Group">
+        <g id="Close-X">
+          <path id="Rectangle" class="cls-1" d="M.29,13.28L13.28,.29c.39-.39,1.02-.39,1.41,0l.19,.19c.39,.39,.39,1.02,0,1.41L1.89,14.88c-.39,.39-1.02,.39-1.41,0l-.19-.19c-.39-.39-.39-1.02,0-1.41Z"/>
+          <path id="Rectangle-Copy" class="cls-1" d="M1.89,.29L14.88,13.28c.39,.39,.39,1.02,0,1.41l-.19,.19c-.39,.39-1.02,.39-1.41,0L.29,1.89c-.39-.39-.39-1.02,0-1.41l.19-.19c.39-.39,1.02-.39,1.41,0Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
